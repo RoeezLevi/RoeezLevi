@@ -12,7 +12,7 @@
 - 📫 How to reach me **RoeeZLevi@gmail.com**
 
 - ⚡ Fun fact **I like fishing**
-
+<br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roeezlevi" alt="roeezlevi" /></a> </p>
 
 
